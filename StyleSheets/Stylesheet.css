@@ -1,0 +1,20 @@
+#Banner{
+    float: left;
+    width: 80%;
+}
+#Logo{
+    float: right;
+    width: 19%;   
+}
+#Overview{
+    float: left;
+    width: 45%;
+    border-color: navy;
+    border-style: solid;
+}
+body{
+    background-color: rgb(195, 233, 250);
+}
+h2{
+    color:rgb(3, 3, 65) ;
+}
